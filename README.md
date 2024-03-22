@@ -1,8 +1,8 @@
 - 😃 Opa, sou o Salis!
 - 🎓 Iniciante nessa área de programação;
-- 🫡 Sou interessado na área de desenvolvimento de games, backend e UX;
-- 🤔 Estou atualmente aprendendo HTML5 e Design;
-- 🤩 Gosto de jogar, sair com amigos, escutar música e viajar;
+- 🫡 Sou interessado na área de desenvolvimento de games, FrontEnd e UX;
+- 🤔 Estou atualmente aprendendo HTML, CSS e JS ;
+- 🤩 Gosto de jogar, escutar música e viajar;
 - 📞 salis.silva@aluno.senai.br 
 
 <!---
