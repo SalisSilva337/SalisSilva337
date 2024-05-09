@@ -1,4 +1,6 @@
 - 😃 Opa, sou o Salis!
+- 18yrs;
+- Brazil - SA;
 - 🎓 Iniciante nessa área de programação;
 - 💻 Sou interessado na área de desenvolvimento de games, FrontEnd e UX;
 - 🤔 Estou atualmente aprendendo HTML, CSS e JS ;
