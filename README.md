@@ -1,5 +1,5 @@
 - 😃 Opa, sou o Salis!
-- 👨‍🦱 18yrs;
+- 👨‍🦱 18yrs old;
 - 🌎 Brazil - SA;
 - 🎓 Iniciante nessa área de programação;
 - 💻 Sou interessado na área de desenvolvimento de games, FrontEnd e UX;
