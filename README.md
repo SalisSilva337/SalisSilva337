@@ -1,11 +1,11 @@
-- 😃 Opa, sou o Salis!
+- 😃 Wassup, I'm Salis!
 - 👨‍🦱 18yrs old;
 - 🌎 Brazil - SA;
-- 🎓 Iniciante nessa área de programação;
-- 💻 Sou interessado na área de desenvolvimento de games, FrontEnd e UX;
-- 🤔 Estou atualmente aprendendo HTML, CSS e JS ;
-- 🤩 Gosto de jogar, escutar música e viajar;
-- 📞 salis.silva@aluno.senai.br 
+- 🎓 Beginner Dev;
+- 💻 I'm Interested in Game Dev, UI/UX and Full Stack Web Dev;
+- 🤔 Currently I'm learning Java Spring Boot and PostgreSQL;
+- 🤩 I like to play some games and listen to music;
+- 📞 salissilvasegundo@gmail.com
 
 <!---
 SalisSilva337/SalisSilva337 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
