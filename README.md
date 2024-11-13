@@ -3,9 +3,10 @@
 - 🌎 Brazil - SA;
 - 🎓 Beginner Dev;
 - 💻 I'm Interested in Game Dev, UI/UX and Full Stack Web Dev;
-- 🤔 Currently I'm learning Java Spring Boot and PostgreSQL;
 - 🤩 I like to play some games and listen to music;
 - 📞 salissilvasegundo@gmail.com
+![image](https://github.com/user-attachments/assets/b5a54ce5-3cd5-4723-9791-d34ac3b18f20)
+
 
 <!---
 SalisSilva337/SalisSilva337 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
