@@ -6,7 +6,7 @@
 - 🤩 I like to play some games and listen to music;
 - 📞 salissilvasegundo@gmail.com
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev)
 
 
 <!---
