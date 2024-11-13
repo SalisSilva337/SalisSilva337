@@ -6,11 +6,11 @@
 - 🤩 I like to play some games and listen to music;
 - 📞 salissilvasegundo@gmail.com
   
-  ##
+##
   
  ![image](https://github.com/user-attachments/assets/3e352f57-3cf8-4e06-abd5-3a6507f85536)
 
-
+##
   
   
 - My Programming Languages:
