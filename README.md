@@ -5,8 +5,9 @@
 - 💻 I'm Interested in Game Dev, UI/UX and Full Stack Web Dev;
 - 🤩 I like to play some games and listen to music;
 - 📞 salissilvasegundo@gmail.com
-  
- <a href="url"><img src="https://github.com/user-attachments/assets/9500ff68-842c-4501-8a58-3dd6c7f2edb6" height="auto" width="200" style="border-radius:50px"></a>
+
+ ![image](https://github.com/user-attachments/assets/cf087c1e-3bef-422f-bc95-e3a15bb212c6)
+
   ##
   
 - My Programming Languages:
