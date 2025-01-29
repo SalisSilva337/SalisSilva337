@@ -28,7 +28,8 @@
 
   https://svnl1nx.itch.io/bubble-rider
 
-  ![SVNL1NX](https://github.com/user-attachments/assets/598105af-59a3-4593-99bf-cc0980f79622)
+  ![SVNL1NX](https://github.com/user-attachments/assets/5bc986c3-c631-405f-8eec-945c876bf13f)
+
 
   
 <!---
