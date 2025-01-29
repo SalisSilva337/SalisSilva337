@@ -26,10 +26,9 @@
 
 - My Games On Itch.io:
 
-  https://svnl1nx.itch.io/bubble-rider
+- ![image](https://github.com/user-attachments/assets/d9081860-f4fa-497d-af79-92fd9e689787)
 
-  
-    ![image](https://github.com/user-attachments/assets/d9081860-f4fa-497d-af79-92fd9e689787)
+  https://svnl1nx.itch.io/
 
 
   ![SVNL1NX](https://github.com/user-attachments/assets/5bc986c3-c631-405f-8eec-945c876bf13f)
