@@ -27,6 +27,10 @@
 - My Games On Itch.io:
 
   https://svnl1nx.itch.io/bubble-rider
+
+  ![SVNL1NX](https://github.com/user-attachments/assets/598105af-59a3-4593-99bf-cc0980f79622)
+
+  
 <!---
 SalisSilva337/SalisSilva337 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
