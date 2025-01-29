@@ -27,8 +27,8 @@
 
 - Some of my Games On Itch.io:
 
- [![SVNL1NX](https://github.com/user-attachments/assets/26627af6-5e45-4956-9364-695b21b53110)
-](https://svnl1nx.itch.io/)
+[ ![SVNL1NX](https://github.com/user-attachments/assets/a26f8555-1859-4399-84df-68bb84efe94b)](https://svnl1nx.itch.io/)
+(click on img)
 
 
   
