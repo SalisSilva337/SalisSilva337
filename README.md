@@ -3,7 +3,7 @@
 - 🌎 Brazil - S.A;
 - 🎓 Beginner Dev;
 - 💻 I'm Interested in Game Dev, UI/UX and Full Stack Web Dev;
-- 🎮 I like to play some games and listen to music;
+- 🎮 I like to play games and listen to music;
 - 📞 salissilvadev@gmail.com
   
 ##
