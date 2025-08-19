@@ -1,6 +1,5 @@
-- 😃 Wassup, I'm Salis!
 - 👨‍🦱 19yrs old;
-- 🌎 Brazil - S.A;
+- 🌎 Brazil - S.A.;
 - 🎓 Beginner Dev;
 - 💻 I'm Interested in Game Dev, UI/UX and Full Stack Web Dev;
 - 🎮 I like to play games and listen to music;
