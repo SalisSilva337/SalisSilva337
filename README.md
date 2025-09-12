@@ -14,13 +14,7 @@
   
 - My Programming Languages:
   
-  [![My Skills](https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev)
-
-##
-
-- Learning:
-
-  [![My Skills](https://skillicons.dev/icons?i=unity,unreal,py,spring,java,postgres)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=js,html,css,c,py,java,postgres,unity,c#)](https://skillicons.dev)
 
 ##
 
