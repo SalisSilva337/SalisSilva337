@@ -14,7 +14,7 @@
   
 - My Programming Languages:
   
-  [![My Skills](https://skillicons.dev/icons?i=js,html,css,c,py,java,postgres,unity,cs)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=js,html,css,c,py,java,postgres,unity,cs&perline=4)](https://skillicons.dev)
 
 ##
 
