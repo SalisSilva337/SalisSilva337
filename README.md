@@ -14,7 +14,7 @@
 ---
 
 ## 🛠️ Tecnologias e Ferramentas
-- 💻 **Linguagens:** Java, Python, JavaScript  
+- 💻 **Linguagens:** Java, Python, JavaScript, C  
 - 🎮 **Game Dev:** Unity 
 - 🌐 **Web:** HTML, CSS, Spring Boot  
 - 🗄 **Banco de Dados:** MySQL, PostgreSQL  
