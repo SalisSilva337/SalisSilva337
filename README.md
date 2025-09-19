@@ -1,27 +1,42 @@
-- 👨‍🦱 19yrs old;
-- 🌎 Brazil - S.A.;
-- 🎓 Beginner Dev;
-- 💻 I'm Interested in Game Dev, Full Stack Web Dev;
-- 🎮 I like to play games and listen to music;
-- 📞 salissilvadev@gmail.com
-  
-##
-  
- ![image](https://github.com/user-attachments/assets/3e352f57-3cf8-4e06-abd5-3a6507f85536)
+# 👋 Olá, eu sou o Salis Silva  
 
-##
-  
-  
-- My Programming Languages:
-  
-  [![My Skills](https://skillicons.dev/icons?i=js,html,css,c,py,java,postgres,unity,cs&perline=6)](https://skillicons.dev)
+🚀 Desenvolvedor apaixonado por tecnologia, jogos e código limpo.  
+🎯 Foco atual: **Python, Flutter, Unity e Angular**  
+💡 Sempre aprendendo e compartilhando conhecimento.  
 
-##
+---
 
-- Some of my Games On Itch.io:
+## 📊 GitHub Stats
+![Salis's GitHub stats](https://github-readme-stats.vercel.app/api?username=salissilva337&show_icons=true&theme=tokyonight)
 
-[ ![SVNL1NX](https://github.com/user-attachments/assets/a26f8555-1859-4399-84df-68bb84efe94b)](https://svnl1nx.itch.io/)
-(click on img)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=salissilva337&layout=compact&theme=tokyonight)
+
+---
+
+## 🛠️ Tecnologias e Ferramentas
+- 💻 **Linguagens:** Java, Python, JavaScript  
+- 🎮 **Game Dev:** Unity 
+- 🌐 **Web:** HTML, CSS, Spring Boot  
+- 🗄 **Banco de Dados:** MySQL, PostgreSQL  
+- ⚙️ **Outros:** Git  
+- 💭 **Aprendendo...:** C#, Flutter, Angular
+---
+
+## 📂 Projetos em Destaque
+- 🚗 [Sistema de Aluguel de Veiculos (Web)](https://github.com/SalisSilva337/Aluguel_Carros_CESMAC)  
+- 🕹️ [Jogo Bubble Rider](https://svnl1nx.itch.io/bubble-rider)  
+- 🚗 [Chat feito com Socket.io](https://github.com/SalisSilva337/Socket.io-Chat)  
+
+---
+
+## 📫 Contato
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/seu-usuario)  
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:salissilvadev@gmail.com)  
+
+---
+
+⭐ Se curtiu algum projeto, não esquece de deixar uma estrela!  
+
 
 
   
