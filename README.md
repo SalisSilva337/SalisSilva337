@@ -12,6 +12,8 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=salissilva337&layout=compact&theme=tokyonight&card_width=500"/> 
 </p>
 
+---
+
 ## 🛠️ Tecnologias e Ferramentas
 - 💻 **Linguagens:** Java, Python, JavaScript, C  
 - 🎮 **Game Dev:** Unity 
