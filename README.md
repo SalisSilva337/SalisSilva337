@@ -7,8 +7,8 @@
 ---
 
 ## 📊 GitHub Stats
-![Salis's GitHub stats](https://github-readme-stats.vercel.app/api?username=salissilva337&show_icons=true&theme=tokyonight) 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=salissilva337&layout=compact&theme=tokyonight&card_width=400)
+![Salis's GitHub stats](https://github-readme-stats.vercel.app/api?username=salissilva337&show_icons=true&theme=tokyonight&card_width=500) 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=salissilva337&layout=compact&theme=tokyonight&card_width=500)
 
 ---
 
