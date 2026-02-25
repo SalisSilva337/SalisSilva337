@@ -6,12 +6,18 @@
 
 ---
 ## 🛠️ Tecnologias e Ferramentas
-- 💻 **Linguagens:** [![My Skills](https://skillicons.dev/icons?i=python,c,java)](https://skillicons.dev)  
-- 🎮 **Game Dev:** [![My Skills](https://skillicons.dev/icons?i=unity)](https://skillicons.dev)
-- 🌐 **Web:** [![My Skills](https://skillicons.dev/icons?i=html,css,js,spring)](https://skillicons.dev)  
-- 🗄 **Banco de Dados:** [![My Skills](https://skillicons.dev/icons?i=postgres)](https://skillicons.dev)  
-- ⚙️ **Outros:** [![My Skills](https://skillicons.dev/icons?i=git)](https://skillicons.dev)
-- 💭 **Aprendendo...:** [![My Skills](https://skillicons.dev/icons?i=cs,react)](https://skillicons.dev)
+- 💻 **Linguagens:**
+- [![My Skills](https://skillicons.dev/icons?i=python,c,java)](https://skillicons.dev)  
+- 🎮 **Game Dev:**
+- [![My Skills](https://skillicons.dev/icons?i=unity)](https://skillicons.dev)
+- 🌐 **Web:**
+- [![My Skills](https://skillicons.dev/icons?i=html,css,js,spring)](https://skillicons.dev)  
+- 🗄 **Banco de Dados:**
+- [![My Skills](https://skillicons.dev/icons?i=postgres)](https://skillicons.dev)  
+- ⚙️ **Outros:**
+- [![My Skills](https://skillicons.dev/icons?i=git)](https://skillicons.dev)
+- 💭 **Aprendendo...:**
+- [![My Skills](https://skillicons.dev/icons?i=cs,react)](https://skillicons.dev)
 ---
 
 ## 📂 Projetos em Destaque
