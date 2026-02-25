@@ -1,7 +1,7 @@
 # 👋 Olá, eu sou o Salis Silva  
 
 🚀 Desenvolvedor apaixonado por tecnologia, jogos e código limpo.  
-🎯 Foco atual: **Python, Flutter, Unity e Angular**  
+🎯 Foco atual: **Python, React, Unity, TypeScript**  
 💡 Sempre aprendendo e compartilhando conhecimento.  
 
 ---
