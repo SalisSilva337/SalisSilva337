@@ -5,22 +5,13 @@
 💡 Sempre aprendendo e compartilhando conhecimento.  
 
 ---
-
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=salissilva337&show_icons=true&theme=tokyonight&card_width=500"/> 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=salissilva337&layout=compact&theme=tokyonight&card_width=500"/> 
-</p>
-
----
-
 ## 🛠️ Tecnologias e Ferramentas
-- 💻 **Linguagens:** Java, Python, JavaScript, C  
-- 🎮 **Game Dev:** Unity 
-- 🌐 **Web:** HTML, CSS, Spring Boot  
-- 🗄 **Banco de Dados:** MySQL, PostgreSQL  
-- ⚙️ **Outros:** Git  
-- 💭 **Aprendendo...:** C#, Flutter, Angular
+- 💻 **Linguagens:** [![My Skills](https://skillicons.dev/icons?i=python,c,java)](https://skillicons.dev)  
+- 🎮 **Game Dev:** [![My Skills](https://skillicons.dev/icons?i=unity)](https://skillicons.dev)
+- 🌐 **Web:** [![My Skills](https://skillicons.dev/icons?i=html,css,js,spring)](https://skillicons.dev)  
+- 🗄 **Banco de Dados:** [![My Skills](https://skillicons.dev/icons?i=postgres)](https://skillicons.dev)  
+- ⚙️ **Outros:** [![My Skills](https://skillicons.dev/icons?i=git)](https://skillicons.dev)
+- 💭 **Aprendendo...:** [![My Skills](https://skillicons.dev/icons?i=cs,react)](https://skillicons.dev)
 ---
 
 ## 📂 Projetos em Destaque
