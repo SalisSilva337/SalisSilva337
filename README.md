@@ -9,11 +9,11 @@
 - 💻 **Linguagens:**
   <br><br>
   [![My Skills](https://skillicons.dev/icons?i=python,c,java)](https://skillicons.dev)
-  <br>
+  <br><br>
 - 🎮 **Game Dev:**
   <br><br>
   [![My Skills](https://skillicons.dev/icons?i=unity)](https://skillicons.dev)
-  <br>
+  <br><br>
 - 🌐 **Web:**
   <br><br>
   [![My Skills](https://skillicons.dev/icons?i=html,css,js,spring)](https://skillicons.dev)
@@ -21,11 +21,11 @@
 - 🗄 **Banco de Dados:**
   <br><br>
   [![My Skills](https://skillicons.dev/icons?i=postgres)](https://skillicons.dev)
-  <br>  
+  <br><br>  
 - ⚙️ **Outros:**
   <br><br>
   [![My Skills](https://skillicons.dev/icons?i=git)](https://skillicons.dev)
-  <br>
+  <br><br>
 - 💭 **Aprendendo...:**
   <br><br>
   [![My Skills](https://skillicons.dev/icons?i=cs,react)](https://skillicons.dev)
