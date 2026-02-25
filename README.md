@@ -28,7 +28,7 @@
   <br><br>
 - 💭 **Aprendendo...:**
   <br><br>
-  [![My Skills](https://skillicons.dev/icons?i=cs,react)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=cs,react,ts)](https://skillicons.dev)
 ---
 
 ## 📂 Projetos em Destaque
