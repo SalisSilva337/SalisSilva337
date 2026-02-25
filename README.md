@@ -6,17 +6,17 @@
 
 ---
 ## 🛠️ Tecnologias e Ferramentas
-- 💻 **Linguagens:**
+- 💻 **Linguagens:** <br>
   [![My Skills](https://skillicons.dev/icons?i=python,c,java)](https://skillicons.dev)  
-- 🎮 **Game Dev:**
+- 🎮 **Game Dev:** <br>
   [![My Skills](https://skillicons.dev/icons?i=unity)](https://skillicons.dev)
-- 🌐 **Web:**
+- 🌐 **Web:** <br>
   [![My Skills](https://skillicons.dev/icons?i=html,css,js,spring)](https://skillicons.dev)  
-- 🗄 **Banco de Dados:**
+- 🗄 **Banco de Dados:** <br>
   [![My Skills](https://skillicons.dev/icons?i=postgres)](https://skillicons.dev)  
-- ⚙️ **Outros:**
+- ⚙️ **Outros:** <br>
   [![My Skills](https://skillicons.dev/icons?i=git)](https://skillicons.dev)
-- 💭 **Aprendendo...:**
+- 💭 **Aprendendo...:** <br>
   [![My Skills](https://skillicons.dev/icons?i=cs,react)](https://skillicons.dev)
 ---
 
