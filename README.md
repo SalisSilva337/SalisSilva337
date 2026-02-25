@@ -32,7 +32,8 @@
 ---
 
 ## 📂 Projetos em Destaque
-- 🚗 [Sistema de Aluguel de Veiculos (Web)](https://github.com/SalisSilva337/Aluguel_Carros_CESMAC)  
+- 🎥 [Sistema de Exibição de Informações de Filmes (Web)](https://github.com/SalisSilva337/Info-Cine)
+- 🚗 [Sistema de Aluguel de Veiculos (Web)](https://github.com/SalisSilva337/Auron-Celeris)  
 - 🕹️ [Jogo Bubble Rider](https://svnl1nx.itch.io/bubble-rider)  
 - 💬 [Chat feito com Socket.io](https://github.com/SalisSilva337/Socket.io-Chat)  
 
